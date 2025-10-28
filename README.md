@@ -2,7 +2,7 @@
 
 **College Query Bot** is an AI-powered chatbot built to assist students with instant answers to their college-related queries. It provides real-time responses about admissions, departments, courses, events, and more — helping students access information quickly and efficiently.
 
-Features
+**Features** : 
 Conversational AI for real-time query handling
 Powered by **Gemini API** for intelligent, context-aware responses
 Provides quick access to college-related information (courses, events, notices, etc.)
